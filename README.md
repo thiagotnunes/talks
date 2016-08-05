@@ -22,6 +22,7 @@ Some talks that I found interesting. Heavily borrowed from [awesome talks](https
 - [The Algebra of Algebraic Data Types](https://www.youtube.com/watch?v=YScIPA8RbVE) by Chris Taylor [2012 01:04:34]
 - [Living in a Post-Functional World](https://www.infoq.com/presentations/post-functional-scala-clojure-haskell) by Daniel Spiewak [2013 45:46]
 - [Extreme Cleverness: Functional Data Structures in Scala](https://www.youtube.com/watch?v=pNhBQJN44YQ) by Daniel Spiewak [2013 39:24]
+- [Category Theory for the Working Hacker](https://www.infoq.com/presentations/category-theory-propositions-principle?utm_source=infoq&utm_medium=popular_widget&utm_campaign=popular_content_list&utm_content=homepage) by Phillip Wadler [2016 - 42:17]
 
 ## Scala
 
@@ -29,6 +30,7 @@ Some talks that I found interesting. Heavily borrowed from [awesome talks](https
 - [Finch](https://skillsmatter.com/skillscasts/6876-finch-your-rest-api-as-a-monad) by Vladimir Kostyukov [2015 43:40]
 - [Doobie](https://www.youtube.com/watch?v=M5MF6M7FHPo) by Rob Norris [2015 41:03]
 - [Decorate Your Types with Refined](https://www.youtube.com/watch?v=zExb9x3fzKs) by Frank Thomas [2016 29:56]
+- [Quill](https://www.youtube.com/watch?v=nqSYccoSeio) by Flavio Brasil [2016 - 48:52]
 
 ## Clojure
 
