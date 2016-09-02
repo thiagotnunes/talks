@@ -22,7 +22,9 @@ Some talks that I found interesting. Heavily borrowed from [awesome talks](https
 - [The Algebra of Algebraic Data Types](https://www.youtube.com/watch?v=YScIPA8RbVE) by Chris Taylor [2012 01:04:34]
 - [Living in a Post-Functional World](https://www.infoq.com/presentations/post-functional-scala-clojure-haskell) by Daniel Spiewak [2013 45:46]
 - [Extreme Cleverness: Functional Data Structures in Scala](https://www.youtube.com/watch?v=pNhBQJN44YQ) by Daniel Spiewak [2013 39:24]
-- [Category Theory for the Working Hacker](https://www.infoq.com/presentations/category-theory-propositions-principle?utm_source=infoq&utm_medium=popular_widget&utm_campaign=popular_content_list&utm_content=homepage) by Phillip Wadler [2016 - 42:17]
+- [Hey Underscore, You're Doing It Wrong](https://www.youtube.com/watch?v=m3svKOdZijA) by Brian Lonsdorf [2013 36:30]
+- [Category Theory for the Working Hacker](https://www.infoq.com/presentations/category-theory-propositions-principle?utm_source=infoq&utm_medium=popular_widget&utm_campaign=popular_content_list&utm_content=homepage) by Phillip Wadler [2016 42:17]
+- [Beyond Scala Lenses](https://www.youtube.com/watch?v=6nyGVgGEKdA) by Julien Truffaut [2016 45:36]
 
 ## Scala
 
