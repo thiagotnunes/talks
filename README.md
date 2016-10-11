@@ -26,6 +26,15 @@ Some talks that I found interesting. Heavily borrowed from [awesome talks](https
 - [Category Theory for the Working Hacker](https://www.infoq.com/presentations/category-theory-propositions-principle?utm_source=infoq&utm_medium=popular_widget&utm_campaign=popular_content_list&utm_content=homepage) by Phillip Wadler [2016 42:17]
 - [Beyond Scala Lenses](https://www.youtube.com/watch?v=6nyGVgGEKdA) by Julien Truffaut [2016 45:36]
 
+## Leadership
+
+- [How to crash a plane](https://vimeo.com/album/4045988/video/173246615) by Nickolas Means [2016 43:07]
+
+## Funny
+
+- [WAT](https://www.destroyallsoftware.com/talks/wat) by Gary Bernhardt [2012 04:17]
+- [Computers are Sadness, I am the Cure](https://vimeo.com/95066828) by James Mickens [2014 27:35]
+
 ## Scala
 
 - [Scalaz](https://vimeo.com/10482466) by Nick Partridge [2010 - 01:14:23]
@@ -38,19 +47,11 @@ Some talks that I found interesting. Heavily borrowed from [awesome talks](https
 
 - [Transducers](https://www.youtube.com/watch?v=6mTbuzafcII&index=5&list=PLcGKfGEEONaDFE_9BeCN1-q3LCqTSGL_q) by Rich Hickey [2014 44:59]
 
-
 ## Idris
 
 - [Idris: Practical Dependent Types with Practical Examples](https://www.youtube.com/watch?v=4i7KrG1Afbk&index=12&list=PLcGKfGEEONaDFE_9BeCN1-q3LCqTSGL_q) by Brian McKenna [2014 40:55]
 - [Type-Driven Development in Idris](https://www.youtube.com/watch?v=X36ye-1x_HQ) by Edwin Brady [2015]
 
-
 ## Wolfram
 
 - [Inside the Wolfram Language](https://www.youtube.com/watch?v=EjCWdsrVcBM&index=4&list=PLcGKfGEEONaDFE_9BeCN1-q3LCqTSGL_q) by Stephen Wolfram [2014 01:08:53]
-
-
-## Funny
-
-- [WAT](https://www.destroyallsoftware.com/talks/wat) by Gary Bernhardt [2012 04:17]
-- [Computers are Sadness, I am the Cure](https://vimeo.com/95066828) by James Mickens [2014 27:35]
