@@ -26,6 +26,10 @@ Some talks that I found interesting. Heavily borrowed from [awesome talks](https
 - [Category Theory for the Working Hacker](https://www.infoq.com/presentations/category-theory-propositions-principle?utm_source=infoq&utm_medium=popular_widget&utm_campaign=popular_content_list&utm_content=homepage) by Phillip Wadler [2016 42:17]
 - [Beyond Scala Lenses](https://www.youtube.com/watch?v=6nyGVgGEKdA) by Julien Truffaut [2016 45:36]
 
+## Distributed Systems
+
+- [Hopelessness and Confidence in Distributed Systems Design](https://www.youtube.com/watch?v=TlU1opuCXB0) by Camille Fournier [2015 40:35]
+
 ## Leadership
 
 - [How to crash a plane](https://vimeo.com/album/4045988/video/173246615) by Nickolas Means [2016 43:07]
