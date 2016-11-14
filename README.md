@@ -59,3 +59,8 @@ Some talks that I found interesting. Heavily borrowed from [awesome talks](https
 ## Wolfram
 
 - [Inside the Wolfram Language](https://www.youtube.com/watch?v=EjCWdsrVcBM&index=4&list=PLcGKfGEEONaDFE_9BeCN1-q3LCqTSGL_q) by Stephen Wolfram [2014 01:08:53]
+
+## Other
+
+- [Keynote on Structure 2016 on Cloud Computing and Economic Disruption](https://vimeo.com/190937358) by Bran Cantrill [2016 22:44]
+
