@@ -14,7 +14,6 @@ Some talks that I found interesting. Heavily borrowed from [awesome talks](https
 - [Finding a Way Out](https://www.infoq.com/presentations/reimagining-software) by Chris Granger [2014 33:46]
 - [The Worst Programming Language Ever](https://www.infoq.com/presentations/worst-programming-language) by Mark Rendle [2015 43:46]
 
-
 ## Functional Programming
 
 - [Structure and Interpretation of Computer Programs](http://groups.csail.mit.edu/mac/classes/6.001/abelson-sussman-lectures/) by Hal Abelson and Gerald Jay Sussman [1985 Series]
@@ -25,6 +24,10 @@ Some talks that I found interesting. Heavily borrowed from [awesome talks](https
 - [Hey Underscore, You're Doing It Wrong](https://www.youtube.com/watch?v=m3svKOdZijA) by Brian Lonsdorf [2013 36:30]
 - [Category Theory for the Working Hacker](https://www.infoq.com/presentations/category-theory-propositions-principle?utm_source=infoq&utm_medium=popular_widget&utm_campaign=popular_content_list&utm_content=homepage) by Phillip Wadler [2016 42:17]
 - [Beyond Scala Lenses](https://www.youtube.com/watch?v=6nyGVgGEKdA) by Julien Truffaut [2016 45:36]
+
+## Architecture
+
+- [CQRS and Event Sourcing](https://www.youtube.com/watch?v=JHGkaShoyNs&t=556s) by Greg Young [2014 01:03:47]
 
 ## Distributed Systems
 
