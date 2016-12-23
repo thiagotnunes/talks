@@ -49,6 +49,7 @@ Some talks that I found interesting. Heavily borrowed from [awesome talks](https
 - [Doobie](https://www.youtube.com/watch?v=M5MF6M7FHPo) by Rob Norris [2015 41:03]
 - [Decorate Your Types with Refined](https://www.youtube.com/watch?v=zExb9x3fzKs) by Frank Thomas [2016 29:56]
 - [Quill](https://www.youtube.com/watch?v=nqSYccoSeio) by Flavio Brasil [2016 - 48:52]
+- [Scala Check](https://www.youtube.com/watch?v=fltD7yrHbUA) by Noel Markham [2016 - 53:12]
 
 ## Clojure
 
