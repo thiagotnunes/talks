@@ -64,6 +64,10 @@ Some talks that I found interesting. Heavily borrowed from [awesome talks](https
 
 - [Inside the Wolfram Language](https://www.youtube.com/watch?v=EjCWdsrVcBM&index=4&list=PLcGKfGEEONaDFE_9BeCN1-q3LCqTSGL_q) by Stephen Wolfram [2014 01:08:53]
 
+## Security
+
+- [Shut Up and Take My Money](https://media.ccc.de/v/33c3-7969-shut_up_and_take_my_money) by Vincent Haupert [2016 30:50]
+
 ## Other
 
 - [Keynote on Structure 2016 on Cloud Computing and Economic Disruption](https://vimeo.com/190937358) by Bran Cantrill [2016 22:44]
