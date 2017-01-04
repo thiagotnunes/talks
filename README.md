@@ -67,4 +67,5 @@ Some talks that I found interesting. Heavily borrowed from [awesome talks](https
 ## Other
 
 - [Keynote on Structure 2016 on Cloud Computing and Economic Disruption](https://vimeo.com/190937358) by Bran Cantrill [2016 22:44]
+- [Millenials in the Workplace](https://www.youtube.com/watch?v=hER0Qp6QJNU) by Simon Sinek [2016 15:00]
 
