@@ -28,6 +28,7 @@ Some talks that I found interesting. Heavily borrowed from [awesome talks](https
 ## Architecture
 
 - [CQRS and Event Sourcing](https://www.youtube.com/watch?v=JHGkaShoyNs&t=556s) by Greg Young [2014 01:03:47]
+- [Timelines at Scale](https://www.infoq.com/presentations/Twitter-Timeline-Scalability?utm_source=presentations_about_qcon_sf2012&utm_medium=link&utm_campaign=qcon_sf2012) by Raffi Krikorian [2012 38:00]
 
 ## Distributed Systems
 
