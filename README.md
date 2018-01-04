@@ -35,6 +35,7 @@ Some talks that I found interesting. Heavily borrowed from [awesome talks](https
 
 - [Hopelessness and Confidence in Distributed Systems Design](https://www.youtube.com/watch?v=TlU1opuCXB0) by Camille Fournier [2015 40:35]
 - [How Google Does Planet-Scale Engineering for Planet-Scale Infra](https://www.youtube.com/watch?v=H4vMcD7zKM0) by Melissa Binde [2016 29:22]
+- [Building for a Billion Users](https://www.youtube.com/watch?v=oodS71YtkGU) by Jay Parikh [2012 35:45]
 
 ## Leadership
 
