@@ -13,6 +13,7 @@ Some talks that I found interesting. Heavily borrowed from [awesome talks](https
 - [The Mess We're In](https://www.youtube.com/watch?v=lKXe3HUG2l4&list=UU_QIfHvN9auy2CoOdSfMWDw) by Joe Armstrong [2014 45:49]
 - [Finding a Way Out](https://www.infoq.com/presentations/reimagining-software) by Chris Granger [2014 33:46]
 - [The Worst Programming Language Ever](https://www.infoq.com/presentations/worst-programming-language) by Mark Rendle [2015 43:46]
+- [Ideology](https://www.destroyallsoftware.com/talks/ideology) by Gary Bernhardt [2015 21:22]
 
 ## Functional Programming
 
