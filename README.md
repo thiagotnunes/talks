@@ -46,6 +46,7 @@ Some talks that I found interesting. Heavily borrowed from [awesome talks](https
 
 - [WAT](https://www.destroyallsoftware.com/talks/wat) by Gary Bernhardt [2012 04:17]
 - [Computers are Sadness, I am the Cure](https://vimeo.com/95066828) by James Mickens [2014 27:35]
+- [Q: Why Do Keynote Speakers Keep Suggesting That Improving Security Is Possible?](https://www.youtube.com/watch?v=ajGX7odA87k) by James Mickens (2018 51:21)
 
 ## Scala
 
