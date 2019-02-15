@@ -79,4 +79,5 @@ Some talks that I found interesting. Heavily borrowed from [awesome talks](https
 - [Keynote on Structure 2016 on Cloud Computing and Economic Disruption](https://vimeo.com/190937358) by Bran Cantrill [2016 22:44]
 - [Millenials in the Workplace](https://www.youtube.com/watch?v=hER0Qp6QJNU) by Simon Sinek [2016 15:00]
 - [Moving Past the Scaling Myth](https://www.infoq.com/presentations/scalability-variant-structuring) by Michael Feathers [2017 52:02]
+- [Stop Treading Water: Leaning to Learn](https://www.youtube.com/watch?v=Z8KcCU-p8QA) by Edward Kmett [2014 40:58]
 
